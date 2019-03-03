@@ -34,4 +34,3 @@ end
 
 github_url = UrlParser.new "https://github.com/search?q=ruby#stuff"
 
-puts github_url.fragment_id
